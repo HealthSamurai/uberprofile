@@ -1,0 +1,5 @@
+{:ns     system
+ :import #{aidbox aidbox.config}
+
+ box
+ {:zen/tags #{aidbox/system}}}
