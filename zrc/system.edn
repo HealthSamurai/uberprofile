@@ -1,5 +1,20 @@
 {:ns     system
- :import #{aidbox aidbox.config}
+ :import #{aidbox aidbox.config
+           us-core
+           plan-net
+           davinci
+           dme-orders
+           pdex-plan
+           uv-sdc
+           nz-ig
+           davincy-hrex
+           terminology
+           nlm-vsac
+           fhir-r4-core
+           davinci-drug
+           us-mcode
+           us-carin-bb
+           uv-bulkdata}
 
  box
  {:zen/tags #{aidbox/system}}}
