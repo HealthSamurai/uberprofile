@@ -1,1 +1,15 @@
-{:deps {}}
+{:deps {us-core      "https://github.com/zen-fhir/hl7-fhir-us-core.git"
+        plan-net     "https://github.com/zen-fhir/hl7-fhir-us-davinci-pdex-plan-net.git"
+        davinci      "https://github.com/zen-fhir/hl7-fhir-us-davinci-pdex.git"
+        dme-orders   "https://github.com/zen-fhir/hl7-fhir-us-dme-orders.git"
+        pdex-plan    "https://github.com/zen-fhir/hl7-fhir-us-davinci-pdex-plan-net.git"
+        uv-sdc       "https://github.com/zen-fhir/hl7-fhir-uv-sdc.git"
+        nz-ig        "https://github.com/zen-fhir/fhir-org-nz-ig-base.git"
+        davincy-hrex "https://github.com/zen-fhir/hl7-fhir-us-davinci-hrex.git"
+        terminology  "https://github.com/zen-fhir/hl7-terminology-r4.git"
+        nlm-vsac     "https://github.com/zen-fhir/us-nlm-vsac.git"
+        fhir-r4-core "https://github.com/zen-fhir/hl7-fhir-r4-core.git"
+        davinci-drug "https://github.com/zen-fhir/hl7-fhir-us-davinci-drug-formulary.git"
+        us-mcode     "https://github.com/zen-fhir/hl7-fhir-us-mcode.git"
+        us-carin-bb  "https://github.com/zen-fhir/hl7-fhir-us-carin-bb.git"
+        uv-bulkdata  "https://github.com/zen-fhir/hl7-fhir-uv-bulkdata.git"}}
