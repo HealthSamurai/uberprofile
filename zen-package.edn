@@ -2,7 +2,6 @@
         plan-net     "https://github.com/zen-fhir/hl7-fhir-us-davinci-pdex-plan-net.git"
         davinci      "https://github.com/zen-fhir/hl7-fhir-us-davinci-pdex.git"
         dme-orders   "https://github.com/zen-fhir/hl7-fhir-us-dme-orders.git"
-        pdex-plan    "https://github.com/zen-fhir/hl7-fhir-us-davinci-pdex-plan-net.git"
         uv-sdc       "https://github.com/zen-fhir/hl7-fhir-uv-sdc.git"
         nz-ig        "https://github.com/zen-fhir/fhir-org-nz-ig-base.git"
         davincy-hrex "https://github.com/zen-fhir/hl7-fhir-us-davinci-hrex.git"
